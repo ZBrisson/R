@@ -1,0 +1,36 @@
+"Country","Region","Population","Under15","Over60","FertilityRate","LifeExpectancy","ChildMortality","CellularSubscribers","LiteracyRate","GNI","PrimarySchoolEnrollmentMale","PrimarySchoolEnrollmentFemale"
+"Antigua and Barbuda","Americas",89,25.96,12.35,2.12,75,9.9,196.41,99,17900,91.1,84.5
+"Argentina","Americas",41087,24.42,14.97,2.2,76,14.2,134.92,97.8,17130,NA,NA
+"Bahamas","Americas",372,21.62,11.24,1.9,75,16.9,86.06,NA,NA,NA,NA
+"Barbados","Americas",283,18.99,15.78,1.84,78,18.4,127.01,NA,NA,NA,NA
+"Belize","Americas",324,34.4,5.74,2.76,74,18.3,69.96,NA,6090,NA,NA
+"Bolivia (Plurinational State of)","Americas",10496,35.23,7.28,3.31,67,41.4,82.82,NA,4890,91.2,91.5
+"Brazil","Americas",199000,24.56,10.81,1.82,74,14.4,124.26,NA,11420,NA,NA
+"Canada","Americas",34838,16.37,20.82,1.66,82,5.3,79.73,NA,39660,NA,NA
+"Chile","Americas",17465,21.38,13.8,1.84,79,9.1,129.71,NA,16330,94.3,94.4
+"Colombia","Americas",47704,28.03,9.19,2.35,78,17.6,98.45,93.4,9560,91.7,91.3
+"Costa Rica","Americas",4805,23.94,10.15,1.83,79,9.9,92.2,96.2,11860,NA,NA
+"Cuba","Americas",11271,16.58,17.95,1.46,78,5.5,11.69,99.8,NA,100,99.7
+"Dominica","Americas",72,25.96,12.35,NA,74,12.6,164.02,NA,13000,NA,NA
+"Dominican Republic","Americas",10277,30.53,8.97,2.55,73,27.1,87.22,89.5,9420,95.5,90.4
+"Ecuador","Americas",15492,30.29,9.21,2.62,76,23.3,104.55,91.9,8510,NA,NA
+"El Salvador","Americas",6297,30.62,9.64,2.24,72,15.9,133.54,84.5,6640,95.2,95.5
+"Grenada","Americas",105,26.96,9.72,2.22,74,13.5,NA,NA,10350,NA,NA
+"Guatemala","Americas",15083,40.8,6.56,3.91,69,32,140.38,75.2,4760,98.6,97.5
+"Guyana","Americas",795,36.77,5.18,2.64,63,35.2,69.94,NA,NA,82.4,85.9
+"Haiti","Americas",10174,35.35,6.7,3.28,63,75.6,41.49,NA,1180,NA,NA
+"Honduras","Americas",7936,35.72,6.41,3.1,74,22.9,103.97,84.8,3820,94.8,97
+"Jamaica","Americas",2769,27.78,10.98,2.31,75,16.8,108.12,86.6,NA,83.4,81.4
+"Mexico","Americas",121000,29.02,9.18,2.25,75,16.2,82.38,93.1,15390,99.2,99.9
+"Nicaragua","Americas",5992,33.37,6.59,2.59,73,24.4,82.15,NA,3730,93.2,94.5
+"Panama","Americas",3802,28.65,10.13,2.52,77,18.5,188.6,94.1,14510,99.1,98.2
+"Paraguay","Americas",6687,32.78,8.01,2.93,75,22,99.4,93.9,5390,84.4,83.9
+"Peru","Americas",29988,29.18,9.12,2.48,77,18.2,110.41,NA,9440,97.8,98.5
+"Saint Kitts and Nevis","Americas",54,25.96,12.35,NA,74,9.2,NA,NA,16470,85.8,86.2
+"Saint Lucia","Americas",181,24.31,12.13,1.96,75,17.5,123,NA,11220,90.2,89.2
+"Saint Vincent and the Grenadines","Americas",109,25.7,9.92,2.05,74,23.4,120.52,NA,10440,NA,NA
+"Suriname","Americas",535,27.83,9.55,2.32,72,20.8,178.88,94.7,NA,NA,NA
+"Trinidad and Tobago","Americas",1337,20.73,13.18,1.8,71,20.7,135.64,98.8,NA,97.7,97
+"United States of America","Americas",318000,19.63,19.31,2,79,7.1,92.72,NA,48820,95.4,96.1
+"Uruguay","Americas",3395,22.05,18.59,2.07,77,7.2,140.75,98.1,14640,NA,NA
+"Venezuela (Bolivarian Republic of)","Americas",29955,28.84,9.17,2.44,75,15.3,97.78,NA,12430,94.7,95.1
